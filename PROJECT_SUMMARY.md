@@ -4,7 +4,8 @@
 
 A web-based flashcard application designed to help users learn Spanish vocabulary. The application focuses on active recall and self-assessment, storing all progress locally on the user's device using browser LocalStorage. All features have been fully implemented according to the specification.
 
-**Repository:** https://github.com/filippofra/flashcards.git  
+**Repository:** https://github.com/filippofra/flashcard  
+**Live Website:** https://flashcard-app-drab.vercel.app  
 **Status:** ✅ All features complete and deployed
 
 ---
