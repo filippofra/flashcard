@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { dictionary, Flashcard } from '../dictionary'
+import { dictionary } from '../dictionary'
 
 /**
  * Tests for the dictionary data structure
