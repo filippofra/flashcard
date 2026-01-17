@@ -3,6 +3,7 @@
   color: white;
   max-width: 1200px;
   margin: 0 auto;
+  /* Background and border-radius now handled by App.css .stats-view wrapper */
 }
 
 .stats-dashboard h1 {

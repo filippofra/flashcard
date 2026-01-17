@@ -1,5 +1,5 @@
 .quiz-view {
-  padding: 2rem;
+  /* Background, padding, and border-radius now handled by App.css .quiz-view wrapper */
   max-width: 800px;
   margin: 0 auto;
   color: white;
